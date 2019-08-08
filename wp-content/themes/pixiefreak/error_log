@@ -1,0 +1,5 @@
+[12-Jul-2019 13:42:59 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/xrsports/public_html/primetime/wp-content/themes/pixiefreak/post-process.php on line 40
+[12-Jul-2019 13:43:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xrsports/public_html/primetime/wp-content/themes/pixiefreak/index.php on line 1
+[12-Jul-2019 13:43:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xrsports/public_html/primetime/wp-content/themes/pixiefreak/index.php on line 1
+[12-Jul-2019 13:44:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xrsports/public_html/primetime/wp-content/themes/pixiefreak/index.php on line 1
+[12-Jul-2019 13:44:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/xrsports/public_html/primetime/wp-content/themes/pixiefreak/index.php on line 1
