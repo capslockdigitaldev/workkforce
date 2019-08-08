@@ -1,2 +1,64 @@
 XR Platform Documentation (Workkforce)
 Version 1.0
+
+**************************************
+
+Server: EC2 Elastic Server
+Database: mysql
+Framework:  PHP based Framework
+
+**************************************
+
+Wordpress Version : 5.2.2
+
+**************************************
+
+Plugins Used:-
+
+1. Advance Custom Fields (Version : 5.8.2)
+2. BuddyPress (Version : 4.4.0)
+3. Classic Editor (Version : 1.5.0)
+4. Contact Form 7 (Version : 5.1.3)
+5. Custom Post Type UI (Version : 1.6.2)
+6. Ninja Forms (Version : 3.4.16)
+7. Orion SMS OTP Verification ( Using Twillio) (Version : 10.0.0)
+8. Peter's Login Redirect (Version : 2.9.4)
+9. Webcraftic Hide Login page (Version : 1.0.8)
+10. Wordfence Security (Version : 7.3.6)
+11. WP REST API Controller (Version : 2.0.2)
+
+**************************************
+
+Frontend :-
+
+- Bootstrap 4
+- Css 3
+- HTML 5
+- JavaScript
+- Jquery
+- AJAX 
+
+**************************************
+
+Custom Post Types:-
+
+- Brackets made by Custom Post Type UI and Custom Feilds
+- Tournaments made by Custom Post Type UI and Custom Feilds
+- Matches made by Custom Post Type UI and Custom Feilds
+- Games made by Custom Post Type UI and Custom Feilds
+- Transactions made by Custom Post Type UI and Custom Feilds
+- Notifications made by Custom Post Type UI and Custom Feilds
+- PublicBrackets made by Custom Post Type UI and Custom Feilds
+- Leaderboards made by Custom Post Type UI and Custom Feilds
+- Events made by Custom Post Type UI and Custom Feilds
+- Notices made by Custom Post Type UI and Custom Feilds
+- Teams made by Custom Post Type UI and Custom Feilds
+
+**************************************
+
+
+
+
+
+
+
